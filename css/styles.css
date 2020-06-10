@@ -1,0 +1,234 @@
+body {
+  font-family: 'Montserrat', sans-serif; }
+
+body h1 {
+  font-size: 50px;
+  font-weight: 700;
+  color: white; }
+
+body .iphone {
+  margin-bottom: -20px; }
+
+body .header {
+  font-size: 16.39px;
+  font-weight: bold;
+  color: white; }
+
+body .head {
+  font-size: 12px;
+  font-weight: bold;
+  color: white; }
+
+body .subtext {
+  font-size: 18px;
+  color: white; }
+
+body .hero-small {
+  font-size: 10px;
+  font-weight: bold;
+  color: white; }
+
+body .link:hover {
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+  border-bottom: 1px solid white; }
+
+body .license-button {
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 10px;
+  color: #242526;
+  background-color: white;
+  margin-bottom: 40px;
+  width: 150px;
+  height: 42px; }
+
+body .blurb {
+  font-size: 13px;
+  color: #292534; }
+
+body h2 {
+  font-weight: 700;
+  font-size: 44px;
+  color: #242526;
+  padding-top: 70px; }
+
+body .subtext-2 {
+  font-weight: lighter;
+  font-size: 16px;
+  color: #747474;
+  padding-bottom: 70px; }
+
+body .title {
+  font-weight: bold;
+  font-size: 13px;
+  color: #242526; }
+
+body .paragraph {
+  font-size: 13px;
+  color: #747474; }
+
+body h3 {
+  font-weight: 600;
+  font-size: 44px;
+  color: white; }
+
+body .subtext-3 {
+  font-weight: lighter;
+  font-size: 16px;
+  color: #bcc6d0;
+  padding-top: 20px;
+  padding-bottom: 70px; }
+
+body .title-2 {
+  font-weight: bold;
+  font-size: 12px;
+  color: #242526;
+  padding-top: 20px; }
+
+body .cost {
+  font-weight: bold;
+  font-size: 48px;
+  color: #242526; }
+
+body .row .cost-box {
+  background: white;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 10px; }
+
+body .per-month {
+  font-size: 12px;
+  color: #242526;
+  padding-bottom: 30px; }
+
+body .list {
+  font-size: 14px;
+  color: #242526; }
+
+body ul {
+  text-align: center;
+  list-style-position: inside;
+  padding-right: 40px;
+  padding-bottom: 15px;
+  padding-top: 15px; }
+
+body .title-3 {
+  font-weight: bold;
+  font-size: 12px;
+  color: white;
+  padding-top: 20px; }
+
+body .cost-2 {
+  font-weight: bold;
+  font-size: 48px;
+  color: white; }
+
+body .row .cost-box.alt {
+  background: #1b8bf9; }
+
+body .per-month-2 {
+  font-size: 12px;
+  color: white;
+  padding-bottom: 30px; }
+
+body .list-2 {
+  font-size: 14px;
+  color: white; }
+
+body .title-4 {
+  font-weight: lighter;
+  font-size: 14px;
+  color: white;
+  padding-bottom: 52px; }
+
+body .email {
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  opacity: 0.4; }
+
+body .subscribe-button {
+  border-radius: 5px;
+  font-size: 8px;
+  font-weight: bold;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #242525;
+  width: 100px;
+  text-align: center; }
+
+body .footer-menu {
+  font-weight: bold;
+  font-size: 11px;
+  color: #242526; }
+
+body .footer-text {
+  font-weight: lighter;
+  font-size: 11px;
+  color: #242526; }
+
+body .footer-title {
+  font-size: 10px;
+  color: #242526; }
+
+body .padding {
+  padding-right: 15px; }
+
+body .download-button {
+  border-radius: 30px;
+  border-color: white;
+  font-weight: bold;
+  font-size: 10px;
+  color: white;
+  background-color: #0cb3f8;
+  width: 140px;
+  height: 40px; }
+
+body .new-button {
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 11px;
+  color: white;
+  width: 80px;
+  height: 22px;
+  box-shadow: 0px 4px 13px #a0caf2;
+  padding-left: 10px;
+  padding-bottom: 20px; }
+
+body .row.header-padding {
+  padding-top: 20px;
+  padding-bottom: 30px; }
+
+body .row.hero-color {
+  background: #0cb3f8; }
+
+body .row.section-2 {
+  background: white;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+body .row.section-3 {
+  background: #f5f4f4;
+  padding-bottom: 70px; }
+
+body .row.section-4 {
+  background: #222222;
+  padding-top: 70px;
+  padding-bottom: 90px; }
+
+body .row.section-5 {
+  background-image: url("../images/cliffs.png");
+  padding-top: 65px;
+  padding-bottom: 78px; }
+
+body .row.footer-section {
+  background: white;
+  padding-top: 70px;
+  padding-bottom: 20px; }
+
+body .row.footer-section-2 {
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 80px; }
