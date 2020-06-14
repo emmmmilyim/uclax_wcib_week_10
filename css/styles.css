@@ -1,0 +1,125 @@
+body {
+  font-family: 'Montserrat', sans-serif; }
+
+.header.img {
+  float: left;
+  width: 150px;
+  height: auto;
+  background: #555; }
+
+body h1 {
+  font-size: 50px;
+  font-weight: 30;
+  height: 30%;
+  width: 20%;
+  color: black; }
+
+body h2 {
+  font-size: 40px;
+  font-weight: 30;
+  height: 30%;
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin-bottom: 30px; }
+
+body h3 {
+  font-size: 30px;
+  height: 30%;
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin-bottom: 30px;
+  padding-left: 500px; }
+
+body .row.header-padding {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-left: 80px;
+  padding-right: 80px; }
+
+body .head {
+  font-size: 12px;
+  color: black;
+  padding-left: 20px; }
+
+.col-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 250px; }
+
+.box {
+  height: 60vh;
+  width: 200px;
+  align-content: center; }
+
+.red {
+  background: #A24D37;
+  position: relative;
+  color: #FFF;
+  font-size: 40px;
+  overflow: hidden;
+  font-weight: 100; }
+
+.brown {
+  background: #BD9E89;
+  position: relative;
+  color: #000;
+  font-size: 40px;
+  overflow: hidden;
+  font-weight: 100; }
+
+.cream {
+  background: #FFF0E5;
+  position: relative;
+  color: #A30707;
+  font-size: 40px;
+  overflow: hidden;
+  font-weight: 100; }
+
+.about-container {
+  width: 100%;
+  display: flex;
+  padding: 0 250px 50px 250px; }
+
+.about-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px; }
+
+.col-container .overlay-container .overlay-img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+  image-orientation: center; }
+
+.overlay-container:hover .overlay-img {
+  opacity: 1; }
+
+.work-container {
+  display: flex;
+  align-items: center;
+  margin: 40px 40px; }
+
+.resume-container img {
+  width: 60%; }
+
+.footer {
+  position: inherit; }
+
+.instagram {
+  position: sticky;
+  height: auto;
+  width: auto; }
+
+.row {
+  justify-content: space-around; }
